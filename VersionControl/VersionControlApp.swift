@@ -12,6 +12,7 @@ import SwiftUI
 @main
 struct VersionControlApp: App {
     var body: some Scene {
+        // mah
         WindowGroup {
             ContentView()
         }
